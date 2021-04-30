@@ -21,7 +21,7 @@ class TaskScreen extends StatelessWidget {
                           child: AddTaskScreen()),
                     ));
           },
-          child: Icon(Icons.plus_one),
+          child: Icon(Icons.add_box_outlined),
           backgroundColor: Colors.lightBlueAccent,
         ),
         backgroundColor: Colors.lightBlueAccent,
