@@ -21,7 +21,7 @@ class TaskScreen extends StatelessWidget {
                           child: AddTaskScreen()),
                     ));
           },
-          child: Icon(Icons.add),
+          child: Icon(Icons.plus_one),
           backgroundColor: Colors.lightBlueAccent,
         ),
         backgroundColor: Colors.lightBlueAccent,
@@ -46,7 +46,7 @@ class TaskScreen extends StatelessWidget {
                     height: 10,
                   ),
                   Text(
-                    "TodoEy",
+                    "TodoApp",
                     style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.w700,
